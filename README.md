@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thameem" target="blank"><img src="https://img.shields.io/twitter/follow/thameem?logo=twitter&style=for-the-badge" alt="thameem" /></a> </p>
 
-- 🌱 I’m currently learning **Framework,React js,Python**
+- 🌱 I’m currently learning **Framework,React js,Dot Net**
 
 - 👨‍💻 All of my projects are available at [https://thameempk.github.io/thameem/](https://thameempk.github.io/thameem/)
 
