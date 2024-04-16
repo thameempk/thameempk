@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mhd.Thameem</h1>
 <h3 align="center">A passionate and aspiring web developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thameempk&label=Profile%20views&color=0e75b6&style=flat" alt="thameempk" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thameem" target="blank"><img src="https://img.shields.io/twitter/follow/thameem?logo=twitter&style=for-the-badge" alt="thameem" /></a> </p>
